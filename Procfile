@@ -1,1 +1,1 @@
-worker python -m app
+worker python telegram_bot.py
