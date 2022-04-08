@@ -3,7 +3,7 @@ from telebot import types
 import kino
 import py_mongo_test
 
-token = 'SuperBotToken'
+token = '5168841978:AAGPbns3NLLb1Staj2C9FiM_N8QaNx826Q4'
 bot = telebot.TeleBot(token)
 
 
